@@ -1,0 +1,2 @@
+source /home/aspect/esp/example_oledScreen/build/bootloader/gdbinit/symbols
+source /home/aspect/esp/example_oledScreen/build/bootloader/gdbinit/connect

@@ -1,0 +1,2 @@
+source /home/aspect/esp/servoPWM/build/bootloader/gdbinit/symbols
+source /home/aspect/esp/servoPWM/build/bootloader/gdbinit/connect
