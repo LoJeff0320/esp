@@ -1,0 +1,2 @@
+source /home/aspect/esp/example_hx711/build/gdbinit/symbols
+source /home/aspect/esp/example_hx711/build/gdbinit/connect
